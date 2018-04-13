@@ -8,7 +8,7 @@
     $defaultinst="game_institution";
 
     #$game_total=10;
-    $game_total=20;
+sub    $game_total=20;
     $game_rate=3;
 
     $firstagent_id="ellen";
